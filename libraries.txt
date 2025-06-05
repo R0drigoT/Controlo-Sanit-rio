@@ -1,0 +1,12 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+PubSubClient
+DHT sensor library for ESPx
+DHT22
+DHTlib
+DHT11
+DHT sensor library
+ESP32Servo
+ArduinoJson
+LedControl
